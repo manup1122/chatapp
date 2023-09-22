@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "105447016188",
+    "project_id": "mechat-6f55d",
+    "storage_bucket": "mechat-6f55d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105447016188:android:c350b32b19df28ed91b979",
+        "android_client_info": {
+          "package_name": "com.example.we_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105447016188-du8qhv6qebevrp913qu8j4ahftkcmrlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.we_chat",
+            "certificate_hash": "be97bcbc3df00f27ee3e73efabe600df779a7796"
+          }
+        },
+        {
+          "client_id": "105447016188-t40elovl5bdj8kmdb3m1h812a91n4g1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKrXlNOijvBUnFl-QmAB8TW8oBkeCz0yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105447016188-t40elovl5bdj8kmdb3m1h812a91n4g1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
